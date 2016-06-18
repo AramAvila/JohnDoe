@@ -1,0 +1,180 @@
+#menu > li{
+	font-size: 2em;
+	font-style: bold;
+	font-family: verdana;
+	color: #ADADAD;
+	display: inline-block;
+	list-style-type: none;
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: 1px solid;
+}
+
+#menu{
+	padding: 0px;
+	margin: auto;
+}
+
+#menu{
+	margin-bottom: 50px;
+}
+
+#menu a{
+	color: #333333;
+	text-decoration: none;
+}
+
+#menu a:hover{
+	color: gray;
+}
+
+#emp{
+	margin: 0px;
+}
+
+#emp li{
+	position: absolute;
+	display: inline;
+	list-style-type: none;
+	height: 500px;
+	width: 1000px;
+	float: left;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+#emp h3{
+	position: relative;
+	width: 500px;
+	text-align: right;
+	top: 100px;
+	left: 400px;
+	font-size: 3em;
+	font-weight: bold;
+	font-family: Helvetica;
+	z-index: 100;
+	color: #333333;
+}
+
+#emp p{
+	width: 400px;
+	position: relative;
+	top: 300px;
+	left: 500px;
+	font-family: Helvetica;
+	z-index: 90;
+	color: white;
+	text-align: justify;
+	background: rgba(0, 0, 0, .4);
+	padding: 10px;
+}
+
+#emp{
+	position: relative;
+	top: -504px;
+}
+
+#anarDreta{
+	position: relative;
+	left: 900px;
+	z-index: 90;
+}
+
+#anarEsquerra{
+	z-index: 90;
+	position: relative;
+}
+
+
+#container{
+	margin-top: 50px;
+	width: 1200px;
+	margin-bottom: 75px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url("imatges/concrete_seamless.png");
+}
+
+#noticies{
+	font-family: Helvetica;
+	color: gray;
+	text-align: justify;
+	padding: 10px;
+	z-index: 90;
+	position: relative;
+	background-color: #D6D6D6;
+	left: 105px;
+	width: 890px;
+	margin: 0px;
+}
+
+#noticies p{
+	margin: 0px;
+}
+
+#entrada{
+	font-family: verdana;
+	font-style: 1.5em;
+	text-align: right;
+	height: 80px;
+	position: relative;
+	left: 100px;
+	width: 600px;
+	top: 30px;
+	resize: none;
+}
+
+#btnGuardar, #btnPujar{
+	color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	height: 50px;
+	width: 100px;
+    position: relative;
+	color: black;
+}
+
+#btnGuardar{
+	left: 110px;	
+}
+
+#btnPujar{
+	left: 150px;	
+}
+
+#llistaGuardat {
+	list-style-type: none;
+	font-family: verdana;
+	font-style: 1.5em;
+	height: 150px;
+	position: relative;
+	left: 100px;
+	width: 600px;
+	top: 30px;
+}
+
+#llistaGuardat li{
+	padding: 10px;
+}
+
+#llistaGuardat ul{
+	padding: 0px;
+}
+
+.parell{
+	background-color: rgba(0, 0, 155, .5);
+}
+
+.dropdown-menu {
+  font-size: 16px;
+  margin-top: 5px;
+  min-width: 105px;
+}
+
+.dropdown-menu li a {
+  color: #898989;
+  padding: 6px 20px;
+  font-weight: 300;
+}

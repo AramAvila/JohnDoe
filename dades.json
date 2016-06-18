@@ -1,0 +1,61 @@
+{
+   "webs":[
+      {
+         "nom":"Facebook",
+         "url":"http://facebook.com",
+         "color":"0, 0, 255",
+         "subMenu": ""
+      },
+      {
+         "nom":"Google",
+         "url":"http://google.com",
+         "color":"0, 0, 0",
+         "subMenu": ""
+      },
+      {
+         "nom":"9GAG",
+         "url":"http://9gag.com",
+         "color":"0, 0, 0",
+         "subMenu": ""
+      },
+      {
+         "nom":"Twitter",
+         "url":"http://twitter.com",
+         "color":"0, 153, 255",
+         "subMenu": ""
+      },
+      {
+         "nom":"Nasa",
+         "url":"http://nasa.gov",
+         "color":"0, 153, 255",
+         "subMenu":{
+            "Youtube":"http://youtube.com",
+            "DropBox":"http://dropbox.com",
+            "ASDF":"#",
+         }
+      }
+   ],
+   "employees":[
+      {
+         "firstName":"John",
+         "lastName":"Doe",
+         "pic":"http://steezo.com/wp-content/uploads/2012/12/man-in-suit2.jpg",
+         "noticia":"1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare hendrerit sagittis. Vivamus nec purus sit amet magna sodales dignissim vel eu ligula. Nullam eu nibh ac arcu vulputate eleifend ac a nibh. Duis in malesuada ligula. Cras dictum velit libero, ac pellentesque sem hendrerit eu. Sed ornare, purus non tristique finibus, metus diam aliquet velit, vel rhoncus velit enim ut eros. Phasellus eu feugiat nibh. Aliquam erat volutpat. Quisque tristique nibh in ipsum suscipit tempor. Pellentesque maximus at ex id scelerisque. Nam ultricies purus nec egestas dapibus. Donec rhoncus magna vel quam pharetra, id congue justo imperdiet. Nulla sem odio, lobortis in aliquet eget, egestas in nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed et lacus venenatis, porttitor mi eu, ultricies nibh. Curabitur luctus nulla sed velit facilisis, at sodales justo luctus. Ut urna ipsum, tempus at est ut, tristique bibendum turpis. Nam condimentum aliquam pharetra. Maecenas viverra in libero a sagittis. Cras lobortis, justo vitae ornare gravida, nulla leo convallis ex, nec ornare mauris tellus eu lectus. Nulla pharetra venenatis dolor, in gravida dolor venenatis id. Morbi mattis accumsan erat ut gravida. Duis nec congue mauris, ac imperdiet lectus. Etiam est dui, congue sed nunc a, suscipit molestie arcu. Donec dapibus vel nibh eu fringilla. Praesent quis libero sit amet leo mattis aliquet. Mauris interdum leo a enim luctus, ac bibendum odio finibus. Aenean in ultrices tortor. Donec ante erat, eleifend vitae eleifend non, mattis a ligula. Nullam iaculis ligula mi, in malesuada enim pellentesque nec. Vivamus ut mauris at nisl luctus tincidunt. Aliquam urna elit, placerat sed quam sit amet, eleifend efficitur arcu. Donec mollis semper pellentesque. Maecenas vel egestas arcu. Phasellus consequat eget tortor vel iaculis. Aliquam et urna blandit, euismod metus eu, imperdiet erat. Donec non eros eros. Nulla quis varius diam, a scelerisque neque. ",
+         "titular":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius consequat iaculis. Vivamus non porta risus. Praesent consectetur porta ante, id finibus felis varius at. Nunc consectetur ex eu tincidunt. "
+      },
+      {
+         "firstName":"Anna",
+         "lastName":"Smith",
+         "pic":"http://goo.gl/1Ry9AR",
+         "noticia":"2: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat, leo sed ornare ornare, enim diam mattis mi, vel dictum dui felis at nisi. Morbi ornare felis arcu, non sollicitudin orci hendrerit sed. Sed efficitur ex leo, in vulputate mi iaculis ut. Cras venenatis purus id interdum tincidunt. Phasellus enim nisi, finibus venenatis magna a, faucibus tincidunt mi. Sed consequat, quam gravida accumsan facilisis, quam risus gravida tellus, eget iaculis enim est ut tellus. Nunc mattis sapien sapien, eu iaculis magna hendrerit sed. Morbi eget dapibus leo. Praesent et velit tincidunt, pretium est a, dapibus enim. Nam dictum ultricies velit, a vestibulum sapien lacinia eu. Cras sit amet venenatis velit. Vivamus purus nunc, dignissim a diam quis, laoreet molestie velit. Sed blandit nulla vitae lacus mattis, sed ultricies nunc convallis. Donec posuere magna nunc, in efficitur orci lobortis quis. Fusce nec nulla at leo dictum ornare. Morbi vitae ligula neque. In dignissim consequat orci sed ullamcorper. Donec malesuada at justo nec porttitor. Maecenas sit amet vulputate nunc. Ut at auctor enim. Nunc accumsan nulla a bibendum lobortis. Aenean congue nulla id lacinia egestas. Fusce ornare nulla sit amet mi dignissim, sit amet blandit odio tempus. Fusce consectetur sapien imperdiet, rutrum odio nec, facilisis leo. Morbi cursus, urna fringilla volutpat sollicitudin, neque eros suscipit ipsum, et eleifend ligula augue vel diam. Etiam quis ipsum luctus, suscipit nisi in, blandit arcu. Mauris tincidunt finibus felis ac sagittis. ",
+         "titular":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu efficitur ligula. Vivamus in nulla ante. Integer aliquet elit aliquet risus mattis, ac porta sapien dictum. Pellentesque ac quam eu. "
+      },
+      {
+         "firstName":"Peter",
+         "lastName":"Jones",
+         "pic":"https://deaenij3kiw8r.cloudfront.net/system/users/avatars/141380/original/production-b3612f96cc66fee631be82853dd2c316-man_bartlett_bw.jpg?1369799811",
+         "noticia":"3: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada purus leo, ac semper nibh pellentesque gravida. Donec quis aliquam lorem, at sollicitudin lectus. Nulla massa mauris, mollis ut venenatis a, imperdiet non sem. Aliquam venenatis, quam a luctus commodo, nisl odio maximus arcu, vitae semper dui velit at diam. Fusce maximus enim sit amet arcu laoreet, eu tempor neque efficitur. Vivamus velit felis, dictum id lectus lacinia, hendrerit ornare nunc. Ut consectetur sed odio in ultricies. Morbi tempor facilisis odio vitae dignissim. Etiam fermentum convallis ligula, sit amet ultricies nunc tincidunt quis. Quisque a purus dolor. Etiam in tempor dui. Mauris et feugiat nibh. Maecenas quis diam sit amet sapien mattis mattis. Mauris auctor dui sed metus ultricies lacinia. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lorem eget urna pellentesque ultrices vitae at felis. Aliquam non placerat dui, a sollicitudin orci. Curabitur non aliquet purus. Nulla tempus mi magna, vel vestibulum enim mollis ac. Vestibulum finibus turpis eget odio lobortis dignissim. Vestibulum semper et felis ac dignissim. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce placerat feugiat lorem ornare facilisis. Morbi nec egestas sapien, eu vestibulum diam. Sed malesuada iaculis odio vitae lobortis. ",
+         "titular":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor mi ac leo gravida eleifend. Vivamus massa augue, eleifend non nulla at, sodales scelerisque sem. Integer pellentesque enim ut tellus. "
+      }
+   ]
+}
