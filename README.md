@@ -1,2 +1,1 @@
-"# WAVES" 
 "# JohnDoe" 
